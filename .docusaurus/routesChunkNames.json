@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-e4c": {
+  "/docs-f20": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-457": {
+  "/docs-ec3": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-e86": {
+  "/docs-876": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/actus-demo/demo-user-guide-63a": {
@@ -129,6 +129,14 @@
   "/docs/quickstart-79e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-quickstart-807-6cd"
+  },
+  "/docs/RiskFactors/overview-b51": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-overview-0-ea-361"
+  },
+  "/docs/RiskFactors/sample-risk-factors-3f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-sample-risk-factors-9-c-0-e02"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

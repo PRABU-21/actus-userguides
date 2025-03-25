@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e4c'),
+    component: ComponentCreator('/docs', 'f20'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '457'),
+        component: ComponentCreator('/docs', 'ec3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e86'),
+            component: ComponentCreator('/docs', '876'),
             routes: [
               {
                 path: '/docs/actus-demo/demo-user-guide',
@@ -153,6 +153,18 @@ export default [
               {
                 path: '/docs/quickstart',
                 component: ComponentCreator('/docs/quickstart', '79e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/RiskFactors/overview',
+                component: ComponentCreator('/docs/RiskFactors/overview', 'b51'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/RiskFactors/sample-risk-factors',
+                component: ComponentCreator('/docs/RiskFactors/sample-risk-factors', '3f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

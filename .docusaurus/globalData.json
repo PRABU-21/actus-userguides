@@ -81,6 +81,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "RiskFactors/overview",
+              "path": "/docs/RiskFactors/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RiskFactors/sample-risk-factors",
+              "path": "/docs/RiskFactors/sample-risk-factors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/introduction-to-actus",
               "path": "/docs/category/introduction-to-actus",
               "sidebar": "tutorialSidebar"
