@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'f20'),
+    component: ComponentCreator('/docs', '238'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ec3'),
+        component: ComponentCreator('/docs', 'c9f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '876'),
+            component: ComponentCreator('/docs', '0cd'),
             routes: [
               {
                 path: '/docs/actus-demo/demo-user-guide',
@@ -81,6 +81,12 @@ export default [
               {
                 path: '/docs/category/introduction-to-actus',
                 component: ComponentCreator('/docs/category/introduction-to-actus', 'de9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/risk-factors',
+                component: ComponentCreator('/docs/category/risk-factors', 'ed3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -157,14 +163,68 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/RiskFactors/overview',
-                component: ComponentCreator('/docs/RiskFactors/overview', 'b51'),
+                path: '/docs/RiskFactors/overview/',
+                component: ComponentCreator('/docs/RiskFactors/overview/', 'ee6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/RiskFactors/sample-risk-factors',
-                component: ComponentCreator('/docs/RiskFactors/sample-risk-factors', '3f4'),
+                path: '/docs/RiskFactors/Risk Modelling for contract.md/activating_behaviour_model',
+                component: ComponentCreator('/docs/RiskFactors/Risk Modelling for contract.md/activating_behaviour_model', '8ec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/RiskFactors/Risk Modelling for contract.md/Distinguishing',
+                component: ComponentCreator('/docs/RiskFactors/Risk Modelling for contract.md/Distinguishing', 'e5f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/RiskFactors/Risk Modelling for contract.md/Example_of_contract',
+                component: ComponentCreator('/docs/RiskFactors/Risk Modelling for contract.md/Example_of_contract', 'b7a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/RiskFactors/Risk Modelling for contract.md/Output',
+                component: ComponentCreator('/docs/RiskFactors/Risk Modelling for contract.md/Output', '268'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/RiskFactors/Risk Modelling for contract.md/sample_2d_payement_model',
+                component: ComponentCreator('/docs/RiskFactors/Risk Modelling for contract.md/sample_2d_payement_model', '5a8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/RiskFactors/Simulating an ACTUS contract/output_cashflow_event_series',
+                component: ComponentCreator('/docs/RiskFactors/Simulating an ACTUS contract/output_cashflow_event_series', '804'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/RiskFactors/Simulating an ACTUS contract/simple_ACTUS_contract',
+                component: ComponentCreator('/docs/RiskFactors/Simulating an ACTUS contract/simple_ACTUS_contract', '861'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/RiskFactors/Simulating an ACTUS contract/with_risk',
+                component: ComponentCreator('/docs/RiskFactors/Simulating an ACTUS contract/with_risk', '366'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/RiskFactors/Using mongodb ACTUS risk database/Initialize_and_view_your_persistent_risk_factor_store_in_MongoDB',
+                component: ComponentCreator('/docs/RiskFactors/Using mongodb ACTUS risk database/Initialize_and_view_your_persistent_risk_factor_store_in_MongoDB', 'c2c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/RiskFactors/Using mongodb ACTUS risk database/Inserting_Sample_Risk_Data_–_Reference_Indexes',
+                component: ComponentCreator('/docs/RiskFactors/Using mongodb ACTUS risk database/Inserting_Sample_Risk_Data_–_Reference_Indexes', 'b2d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

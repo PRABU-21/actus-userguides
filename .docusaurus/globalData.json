@@ -81,18 +81,68 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "RiskFactors/overview",
-              "path": "/docs/RiskFactors/overview",
+              "id": "RiskFactors/overview/overview",
+              "path": "/docs/RiskFactors/overview/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "RiskFactors/sample-risk-factors",
-              "path": "/docs/RiskFactors/sample-risk-factors",
+              "id": "RiskFactors/Risk Modelling for contract.md/activating_behaviour_model",
+              "path": "/docs/RiskFactors/Risk Modelling for contract.md/activating_behaviour_model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RiskFactors/Risk Modelling for contract.md/Distinguishing",
+              "path": "/docs/RiskFactors/Risk Modelling for contract.md/Distinguishing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RiskFactors/Risk Modelling for contract.md/Example_of_contract",
+              "path": "/docs/RiskFactors/Risk Modelling for contract.md/Example_of_contract",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RiskFactors/Risk Modelling for contract.md/Output",
+              "path": "/docs/RiskFactors/Risk Modelling for contract.md/Output",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RiskFactors/Risk Modelling for contract.md/sample_2d_payement_model",
+              "path": "/docs/RiskFactors/Risk Modelling for contract.md/sample_2d_payement_model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RiskFactors/Simulating an ACTUS contract/output_cashflow_event_series",
+              "path": "/docs/RiskFactors/Simulating an ACTUS contract/output_cashflow_event_series",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RiskFactors/Simulating an ACTUS contract/simple_ACTUS_contract",
+              "path": "/docs/RiskFactors/Simulating an ACTUS contract/simple_ACTUS_contract",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RiskFactors/Simulating an ACTUS contract/with_risk",
+              "path": "/docs/RiskFactors/Simulating an ACTUS contract/with_risk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RiskFactors/Using mongodb ACTUS risk database/Initialize_and_view_your_persistent_risk_factor_store_in_MongoDB",
+              "path": "/docs/RiskFactors/Using mongodb ACTUS risk database/Initialize_and_view_your_persistent_risk_factor_store_in_MongoDB",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RiskFactors/Using mongodb ACTUS risk database/Inserting_Sample_Risk_Data_–_Reference_Indexes",
+              "path": "/docs/RiskFactors/Using mongodb ACTUS risk database/Inserting_Sample_Risk_Data_–_Reference_Indexes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/introduction-to-actus",
               "path": "/docs/category/introduction-to-actus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/risk-factors",
+              "path": "/docs/category/risk-factors",
               "sidebar": "tutorialSidebar"
             },
             {
