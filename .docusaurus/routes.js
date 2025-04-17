@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '238'),
+    component: ComponentCreator('/docs', 'b18'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c9f'),
+        component: ComponentCreator('/docs', '324'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '0cd'),
+            component: ComponentCreator('/docs', 'e0b'),
             routes: [
               {
                 path: '/docs/actus-demo/demo-user-guide',
@@ -163,38 +163,44 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/RiskFactors/Improvements/extensions',
+                component: ComponentCreator('/docs/RiskFactors/Improvements/extensions', '8f0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/RiskFactors/overview/',
                 component: ComponentCreator('/docs/RiskFactors/overview/', 'ee6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/RiskFactors/Risk Modelling for contract.md/activating_behaviour_model',
-                component: ComponentCreator('/docs/RiskFactors/Risk Modelling for contract.md/activating_behaviour_model', '8ec'),
+                path: '/docs/RiskFactors/Risk modelling/activating_behaviour_model',
+                component: ComponentCreator('/docs/RiskFactors/Risk modelling/activating_behaviour_model', '340'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/RiskFactors/Risk Modelling for contract.md/Distinguishing',
-                component: ComponentCreator('/docs/RiskFactors/Risk Modelling for contract.md/Distinguishing', 'e5f'),
+                path: '/docs/RiskFactors/Risk modelling/Distinguishing',
+                component: ComponentCreator('/docs/RiskFactors/Risk modelling/Distinguishing', 'a97'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/RiskFactors/Risk Modelling for contract.md/Example_of_contract',
-                component: ComponentCreator('/docs/RiskFactors/Risk Modelling for contract.md/Example_of_contract', 'b7a'),
+                path: '/docs/RiskFactors/Risk modelling/Example_of_contract',
+                component: ComponentCreator('/docs/RiskFactors/Risk modelling/Example_of_contract', '42f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/RiskFactors/Risk Modelling for contract.md/Output',
-                component: ComponentCreator('/docs/RiskFactors/Risk Modelling for contract.md/Output', '268'),
+                path: '/docs/RiskFactors/Risk modelling/Output',
+                component: ComponentCreator('/docs/RiskFactors/Risk modelling/Output', '6db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/RiskFactors/Risk Modelling for contract.md/sample_2d_payement_model',
-                component: ComponentCreator('/docs/RiskFactors/Risk Modelling for contract.md/sample_2d_payement_model', '5a8'),
+                path: '/docs/RiskFactors/Risk modelling/sample_2d_payement_model',
+                component: ComponentCreator('/docs/RiskFactors/Risk modelling/sample_2d_payement_model', 'bf9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

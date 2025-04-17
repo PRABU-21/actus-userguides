@@ -10,8 +10,9 @@ This section focuses on **creating and saving market reference index projections
 ## Accessing Sample ACTUS Commands
 To follow along, you need access to the **sample ACTUS commands folder**. If you have installed **ACTUS Basic Quickstart**, the commands are available at:
 
-## ACTUS_QUICKSTART_HOME/docker-actus-rf20/actus-riskserver-ce/actus-riskserver/Test_B/
-
+```bash
+ACTUS_QUICKSTART_HOME/docker-actus-rf20/actus-riskserver-ce/actus-riskserver/Test_B/
+```
 To run the commands, open a **terminal/command window** in this folder.
 
 > **Note:** If using **Windows**, open a **Linux PowerShell**.

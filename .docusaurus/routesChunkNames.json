@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-238": {
+  "/docs-b18": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-c9f": {
+  "/docs-324": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-0cd": {
+  "/docs-e0b": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/actus-demo/demo-user-guide-63a": {
@@ -134,29 +134,33 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-quickstart-807-6cd"
   },
+  "/docs/RiskFactors/Improvements/extensions-8f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-risk-factors-improvements-extensions-37-f-5bc"
+  },
   "/docs/RiskFactors/overview/-ee6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-risk-factors-overview-1-c-4-eea"
   },
-  "/docs/RiskFactors/Risk Modelling for contract.md/activating_behaviour_model-8ec": {
+  "/docs/RiskFactors/Risk modelling/activating_behaviour_model-340": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-risk-factors-risk-modelling-for-contract-md-activating-behaviour-model-863-cef"
+    "content": "content---docs-risk-factors-risk-modelling-activating-behaviour-modelc-6-c-21f"
   },
-  "/docs/RiskFactors/Risk Modelling for contract.md/Distinguishing-e5f": {
+  "/docs/RiskFactors/Risk modelling/Distinguishing-a97": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-risk-factors-risk-modelling-for-contract-md-distinguishing-2-e-2-58a"
+    "content": "content---docs-risk-factors-risk-modelling-distinguishingd-3-b-6d2"
   },
-  "/docs/RiskFactors/Risk Modelling for contract.md/Example_of_contract-b7a": {
+  "/docs/RiskFactors/Risk modelling/Example_of_contract-42f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-risk-factors-risk-modelling-for-contract-md-example-of-contractf-79-cfb"
+    "content": "content---docs-risk-factors-risk-modelling-example-of-contractf-31-c5d"
   },
-  "/docs/RiskFactors/Risk Modelling for contract.md/Output-268": {
+  "/docs/RiskFactors/Risk modelling/Output-6db": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-risk-factors-risk-modelling-for-contract-md-outputee-6-bcb"
+    "content": "content---docs-risk-factors-risk-modelling-output-67-b-4e7"
   },
-  "/docs/RiskFactors/Risk Modelling for contract.md/sample_2d_payement_model-5a8": {
+  "/docs/RiskFactors/Risk modelling/sample_2d_payement_model-bf9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-risk-factors-risk-modelling-for-contract-md-sample-2-d-payement-model-64-c-cdb"
+    "content": "content---docs-risk-factors-risk-modelling-sample-2-d-payement-model-465-86e"
   },
   "/docs/RiskFactors/Simulating an ACTUS contract/output_cashflow_event_series-804": {
     "__comp": "__comp---theme-doc-item-178-a40",

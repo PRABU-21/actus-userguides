@@ -81,33 +81,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "RiskFactors/Improvements/extensions",
+              "path": "/docs/RiskFactors/Improvements/extensions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "RiskFactors/overview/overview",
               "path": "/docs/RiskFactors/overview/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "RiskFactors/Risk Modelling for contract.md/activating_behaviour_model",
-              "path": "/docs/RiskFactors/Risk Modelling for contract.md/activating_behaviour_model",
+              "id": "RiskFactors/Risk modelling/activating_behaviour_model",
+              "path": "/docs/RiskFactors/Risk modelling/activating_behaviour_model",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "RiskFactors/Risk Modelling for contract.md/Distinguishing",
-              "path": "/docs/RiskFactors/Risk Modelling for contract.md/Distinguishing",
+              "id": "RiskFactors/Risk modelling/Distinguishing",
+              "path": "/docs/RiskFactors/Risk modelling/Distinguishing",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "RiskFactors/Risk Modelling for contract.md/Example_of_contract",
-              "path": "/docs/RiskFactors/Risk Modelling for contract.md/Example_of_contract",
+              "id": "RiskFactors/Risk modelling/Example_of_contract",
+              "path": "/docs/RiskFactors/Risk modelling/Example_of_contract",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "RiskFactors/Risk Modelling for contract.md/Output",
-              "path": "/docs/RiskFactors/Risk Modelling for contract.md/Output",
+              "id": "RiskFactors/Risk modelling/Output",
+              "path": "/docs/RiskFactors/Risk modelling/Output",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "RiskFactors/Risk Modelling for contract.md/sample_2d_payement_model",
-              "path": "/docs/RiskFactors/Risk Modelling for contract.md/sample_2d_payement_model",
+              "id": "RiskFactors/Risk modelling/sample_2d_payement_model",
+              "path": "/docs/RiskFactors/Risk modelling/sample_2d_payement_model",
               "sidebar": "tutorialSidebar"
             },
             {
